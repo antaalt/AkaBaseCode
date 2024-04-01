@@ -18,7 +18,7 @@ Then you need to add Aka framework as dependency:
 
 `git submodule add git@github.com:antaalt/Aka.git lib/Aka`
 
-The path here is important because some code expect aka to be in lib/Aka. Should be changed int the future. Run `git init-submodule update --init --recursive` to download all dependencies, then checkout the `vulkan-backend` branch of aka for latest changes & update submodules.
+The path here is important because some code expect aka to be in lib/Aka. Should be changed int the future. Run `git init-submodule update --init --recursive` to download all dependencies.
 
 ## Create !
 
